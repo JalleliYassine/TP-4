@@ -24,9 +24,5 @@ public class EX1 {
 
         System.out.print("La distance entre [0:0] et " + cords + " = " + distance);
 
-
-
     }
-
-
 }
